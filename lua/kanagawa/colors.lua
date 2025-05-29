@@ -19,7 +19,7 @@ local palette = {
 	winterYellow = "#49443C",
 	winterRed = "#43242B",
 	winterBlue = "#252535",
-	autumnGreen = "#5AF78E ",
+	autumnGreen = "#5AF78E",
 	autumnRed = "#C34043",
 	autumnYellow = "#DCA561",
 
